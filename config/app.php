@@ -13,7 +13,7 @@ return [
     |
     */
 
-    'name' => env('APP_NAME', 'Laravel'),
+    'name' => env('APP_NAME', 'This rep - developed by Masum Biswas'),
 
     /*
     |--------------------------------------------------------------------------
